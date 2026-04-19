@@ -1,0 +1,10 @@
+[
+    { "id": 1, "name": "Poker × 30 latas", "price": 52000, "category": "Cervezas", "image": "🍺", "description": "Cerveza Poker caja por 30 latas de 330ml", "stock": 50 },
+    { "id": 2, "name": "Águila × 30 latas", "price": 54000, "category": "Cervezas", "image": "🍺", "description": "Cerveza Águila caja por 30 latas de 330ml", "stock": 40 },
+    { "id": 3, "name": "Club Colombia × 6", "price": 18000, "category": "Cervezas", "image": "🍺", "description": "Club Colombia sixpack 330ml", "stock": 60 },
+    { "id": 4, "name": "Aguardiente Antioqueño 750ml", "price": 28000, "category": "Licores", "image": "🥃", "description": "Aguardiente Antioqueño botella 750ml", "stock": 30 },
+    { "id": 5, "name": "Buchanan's 12 años 750ml", "price": 120000, "category": "Licores", "image": "🥃", "description": "Whisky Buchanan's 12 años 750ml", "stock": 15 },
+    { "id": 6, "name": "Pony Malta × 6", "price": 9000, "category": "Bebidas", "image": "🥤", "description": "Pony Malta sixpack 330ml", "stock": 80 },
+    { "id": 7, "name": "Agua Brisa 600ml", "price": 2500, "category": "Bebidas", "image": "💧", "description": "Agua mineral Brisa 600ml", "stock": 100 },
+    { "id": 8, "name": "Chocoramo × 12", "price": 14000, "category": "Snacks", "image": "🍫", "description": "Chocoramo caja por 12 unidades", "stock": 45 }
+  ]
